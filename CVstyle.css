@@ -1,0 +1,120 @@
+#photo {
+    margin-top: 20px;
+    width: 145px;
+    border-radius: 20px;
+}
+
+
+#center {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    margin-bottom: 5px;
+    margin-top: 10px;
+    font-size: 25px;
+}
+
+h2 {
+    margin-bottom: 3px;
+    margin-top: 10px;
+}
+
+h3 {
+    margin-top: 5px;
+    margin-bottom: 0px;
+    
+}
+.titrePartie
+{
+    text-decoration: underline;
+}
+#stage {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-style: italic;
+}
+
+ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+hr {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+
+
+.titreCV {
+    text-align: center;
+    color: white;
+    background: #0070c0;
+    padding-top: 20px;
+    width: 540px;
+    height: 80px;
+
+}
+
+.corps {
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 40px;
+    width: 520px;
+}
+
+.titresSections {
+    margin-bottom: 25px;
+}
+
+.cordonees {
+    text-align: center;
+    color: white;
+    background: #0070c0;
+    width: 275px;
+
+}
+
+
+#LANGUES {
+    margin-top: 25px;
+
+}
+
+.separation {
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+/*logo de linked'in*/
+b {
+    border: white 2px solid;
+    margin: 4px 4px 4px 4px;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-bottom: 4px;
+    border-radius: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 40px
+}
+.validators
+{
+   text-align: right;
+}
